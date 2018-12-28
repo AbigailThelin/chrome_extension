@@ -1,0 +1,22 @@
+.App {
+  width: 240px;
+  height: auto;
+  text-align: center;
+  padding: 10px;
+}
+
+.add-selector{
+  cursor: pointer;
+  padding: 10px;
+  margin: 10px;
+}
+
+.selector-container {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 5px;
+}
+
+.remove{
+  cursor: pointer;
+}
